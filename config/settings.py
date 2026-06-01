@@ -24,9 +24,9 @@ CHROMA_PERSIST_DIR = "./data/vectorstore"
 CHROMA_COLLECTION = "intelligence"
 
 # --- Data Sources ---
-NEWSAPI_QUERY = "artificial intelligence OR machine learning OR technology"
+NEWSAPI_QUERY = "Spark OR Apache Spark OR Big Data"
 NEWSAPI_PAGE_SIZE = 20
-ARXIV_QUERY = "artificial intelligence"
+ARXIV_QUERY = "Spark OR Apache Spark OR Big Data"
 ARXIV_MAX_RESULTS = 10
 HACKERNEWS_LIMIT = 20
 

@@ -9,7 +9,7 @@ import xml.etree.ElementTree as ET
 from typing import List, Dict
 from config.settings import ARXIV_QUERY, ARXIV_MAX_RESULTS
 
-ARXIV_API = "http://export.arxiv.org/api/query"
+ARXIV_API = "https://export.arxiv.org/api/query"
 NS = "{http://www.w3.org/2005/Atom}"
 
 
